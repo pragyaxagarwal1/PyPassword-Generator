@@ -33,3 +33,10 @@ cd repository-name
 
 # Run the script
 python password_generator.py
+
+Welcome to the PyPassword Generator!
+How many letters would you like in your password?: 4
+How many symbols would you like in your password?: 2
+How many numbers would you like in your password?: 3
+
+Generated password is: a@c5$z1k2
